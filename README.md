@@ -1,2 +1,2 @@
-# Doenca-Transmitida-por-Alimentos
+# Boletim Zika
 Repositório do banco de dados de DTA
