@@ -1,2 +1,2 @@
 # Boletim Zika
-Repositório do banco de dados de DTA
+Repositório do banco de dados de Zika
